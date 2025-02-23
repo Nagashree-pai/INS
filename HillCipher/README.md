@@ -1,6 +1,6 @@
 # 🔐 Hill Cipher - Matrix-Based Encryption  
 
-## 📜 Definition  
+## 📝 Definition  
 
 The **Hill Cipher** is a **polygraphic substitution cipher** that encrypts messages using **matrix multiplication** over a **modular arithmetic system**. It was **invented by Lester S. Hill in 1929** and is one of the earliest ciphers to use **linear algebra** in cryptography!  
 
@@ -59,16 +59,16 @@ Decrypted Text: ACT
 
 ## ▶️ How to Run  
 
-1️⃣ Save the script as `hill_cipher.py`  
-2️⃣ Open a terminal and navigate to the script location  
-3️⃣ Run the script using:  
+1⃣ Save the script as `hill_cipher.py`  
+2⃣ Open a terminal and navigate to the script location  
+3⃣ Run the script using:  
 
    ```bash
    python hill_cipher.py
    ```
 
-4️⃣ Enter your **plaintext and key matrix** for encryption  
-5️⃣ Enter the **ciphertext and key matrix** for decryption  
+4⃣ Enter your **plaintext and key matrix** for encryption  
+5⃣ Enter the **ciphertext and key matrix** for decryption  
 
 ---
 
@@ -78,4 +78,12 @@ Decrypted Text: ACT
 🔹 **Cybersecurity Challenges** – Common in cryptanalysis and hacking competitions  
 🔹 **Mathematical Research** – Demonstrates the power of **modular arithmetic**  
 🔹 **Educational Purposes** – Helps students learn about **linear algebra in cryptography**  
+
+---
+
+## 📚 Run on Google Colab  
+
+You can also run this code on **Google Colab** by clicking the link below:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e60y6w4N4I1UJglSTGaaZPXCQ4MBh2jr?usp=sharing)
 
