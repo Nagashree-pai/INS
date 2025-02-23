@@ -1,4 +1,5 @@
 # Playfair-Cipher
+
 A Python implementation of the Playfair Cipher for encrypting and decrypting text using a key-based 5x5 matrix.
 
 - [Introduction](#introduction)
@@ -8,6 +9,9 @@ A Python implementation of the Playfair Cipher for encrypting and decrypting tex
 - [Usage](#usage)
 - [Example](#example)
 
+▶️ Run in Google Colab
+To run this project in Google Colab, click the link below:
+[Run on Google Colab](https://colab.research.google.com/drive/1zNDnpHmCquUJaJ3sj5K9__hj2pDwc0OY?usp=sharing)
 
 ## Introduction
 The Playfair Cipher is a digraph substitution cipher that encrypts pairs of letters in plaintext using a 5x5 key matrix. It replaces repeating letters and adjusts odd-length messages by adding filler characters.
@@ -56,3 +60,6 @@ Enter the cipher text: gatlmzclrqxa
 Enter the key: monarchy
 Decrypted message: INSTRUMENTSX
 ```
+
+
+
