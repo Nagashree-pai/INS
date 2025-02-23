@@ -2,7 +2,7 @@ Caesar Cipher - Simple Encryption & Decryption
 
 This project demonstrates the **Caesar Cipher**, a basic encryption technique where each letter in the text is shifted by a fixed number of positions in the alphabet.
 
- 🔹 Features
+🔹 **Features**
 ✅ Encrypts plaintext using a shift key  
 ✅ Decrypts ciphertext back to original text  
 ✅ Works with both uppercase and lowercase letters  
@@ -10,33 +10,35 @@ This project demonstrates the **Caesar Cipher**, a basic encryption technique wh
 
 ---
 
- 📌 How It Works
+📌 **How It Works**
 - Each letter in the text is shifted forward (encryption) or backward (decryption) based on the key.
 - The shift wraps around within the 26 English letters (A-Z, a-z).
 - Non-alphabet characters remain unchanged.
 
 ---
 
- 📂 Files Included
-📜 `CaesarCipher.ipynb` - Jupyter Notebook with the complete implementation  
-📜 `encrypt()` - Function to encrypt text  
-📜 `decrypt()` - Function to decrypt text  
+📂 **Files Included**
+💜 `CaesarCipher.ipynb` - Jupyter Notebook with the complete implementation  
+💜 `encrypt()` - Function to encrypt text  
+💜 `decrypt()` - Function to decrypt text  
 
 ---
 
- 🚀 Quick Start
- Prerequisites
+🚀 **Quick Start**
+### Prerequisites
 - Python 3.x  
 - Jupyter Notebook (or Google Colab)  
 
- Run the Code
- 1️⃣ Clone the Repository
+### Run the Code
+#### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-username/Caesar-Cipher.git
 cd Caesar-Cipher
 ```
 
-#### 2️⃣ Open Jupyter Notebook & Run  
+#### 2️⃣ Open in Google Colab
+[Click here to run on Google Colab](https://colab.research.google.com/drive/1M65vavxCxDzYdhtBwh-w7ap1AV0QxPZK?usp=sharing)
+
 #### 3️⃣ Input Text & Key
 ```sh
 Enter the text to encrypt: hello
@@ -66,4 +68,3 @@ Plain text: hello
 | `khoor`    | 3   | `hello`    |
 | `udymts`   | 5   | `python`   |
 
----
