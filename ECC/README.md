@@ -64,15 +64,6 @@ Receiver encryption key:  0x3e4b2d...1
 
 ---
 
-## 📌 Notes & Improvements
-✅ The `secrets` module ensures cryptographic randomness.
-
-✅ ECC offers better security with smaller keys than RSA (e.g., 256-bit ECC ≈ 3072-bit RSA).
-
-✅ Experiment with different ECC curves for optimized security!
-
----
-
 ### 🔥 Stay Secure with ECC! 🚀
 
 
